@@ -4,9 +4,9 @@
 
 | Elokuvat | Julkaisuvuosi |
 |:---------|--------------:|
-| New Hope | 1984 |
-| Imperium Strikes Back | 1986 |
-| Return of the Jedi | 1988 |
+|  A New Hope | 1977 |
+| The Empires Strikes Back | 1980 |
+| Return of the Jedi | 1983 |
 
 ## Alaotsikko
 
