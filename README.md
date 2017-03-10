@@ -18,7 +18,7 @@ Now that we know who you are, I know who I am. I'm not a mistake! It all makes s
 
 
 
-[Vaatimusmäärittely]https://github.com/anttikuokkanen/TTOS0100/wiki/vaatimusmaarittely
+[Vaatimusmäärittely](https://github.com/anttikuokkanen/TTOS0100/wiki/vaatimusmaarittely)
 [Vaihtoehtoisesti: Star Wars wiki](http://starwars.wikia.com/wiki/Main_Page)
 
 #### Alaotsikko
